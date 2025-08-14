@@ -51,3 +51,6 @@ Lane 3: 2360
 - Integration with traffic light control system
 - Web dashboard for live monitoring
 
+## Video Link:
+[Watch the demo video]([google drive link](https://drive.google.com/file/d/1FSqH9NI9qzuoaq-G8AsQZzWMbsTkJqAL/view?usp=drive_link))
+
